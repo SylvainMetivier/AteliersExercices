@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Atelier_B_Exercice_1._1
+build_property.ProjectDir = C:\Users\Sylvain Métivier\OneDrive - Cégep de Sainte-Foy\Documents\Rebon\PatrickBackEnd\Visual Studio 2022\VisualStudio\source\Atelier-B-Exercice 1.1\Atelier-B-Exercice 1.1\
